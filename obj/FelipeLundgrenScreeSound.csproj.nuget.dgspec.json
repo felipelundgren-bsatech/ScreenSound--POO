@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\FelipeLundgrenScreeSound\\FelipeLundgrenScreeSound.csproj": {}
+    "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\ScreenSound--POO\\FelipeLundgrenScreeSound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\FelipeLundgrenScreeSound\\FelipeLundgrenScreeSound.csproj": {
+    "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\ScreenSound--POO\\FelipeLundgrenScreeSound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\FelipeLundgrenScreeSound\\FelipeLundgrenScreeSound.csproj",
+        "projectUniqueName": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\ScreenSound--POO\\FelipeLundgrenScreeSound.csproj",
         "projectName": "FelipeLundgrenScreeSound",
-        "projectPath": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\FelipeLundgrenScreeSound\\FelipeLundgrenScreeSound.csproj",
+        "projectPath": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\ScreenSound--POO\\FelipeLundgrenScreeSound.csproj",
         "packagesPath": "C:\\Users\\felipe.lundgren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\FelipeLundgrenScreeSound\\obj\\",
+        "outputPath": "C:\\Users\\felipe.lundgren\\Documents\\GitHub\\ScreenSound--POO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

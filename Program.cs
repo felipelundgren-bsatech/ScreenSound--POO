@@ -18,3 +18,7 @@ musica2.Disponivel = false;
 
 musica1.ExibirFichaTecnica();
 musica2.ExibirFichaTecnica();
+
+
+
+Console.ReadLine();
