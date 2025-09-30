@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FelipeLundgrenScreeSound")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a05a2e69d4605c7ab795209da5d283302ea886a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+746bd1513445e6d84258040bc1fe140b4b65ee3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FelipeLundgrenScreeSound")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FelipeLundgrenScreeSound")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
