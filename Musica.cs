@@ -5,13 +5,10 @@
     public int Duracao {  get; set; }
     public bool Disponivel {  get; set; }
 
-    public string DescricaoResumida 
-    { 
-        get
-        {
-            return $"A musica {Nome} pertence a banda {Artista}";
-        }
-    }
+    public string DescricaoResumida =>
+        $"A musica {Nome} pertence a banda {Artista}";
+
+
 
 
     public void ExibirFichaTecnica()
