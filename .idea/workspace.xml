@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6761be4e-3139-41df-b755-29d2e7fc9bd4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.vs/ScreenSound--POO/CopilotIndices/17.14.1147.5054/CodeChunks.db" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ScreenSound--POO/CopilotIndices/17.14.1147.5054/CodeChunks.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ScreenSound--POO/CopilotIndices/17.14.1147.5054/SemanticSymbols.db" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ScreenSound--POO/CopilotIndices/17.14.1147.5054/SemanticSymbols.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ScreenSound--POO/FileContentIndex/38214e04-be2d-4084-851a-5291a8fa1073.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ScreenSound--POO/FileContentIndex/3aadff0a-b6d0-4a0b-b815-43941ff0d40c.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ScreenSound--POO/FileContentIndex/4bc2eb36-54d2-4561-b963-613ff22ec6aa.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ScreenSound--POO/FileContentIndex/a87b9464-1889-42c1-86d3-28aa02ab6020.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ScreenSound--POO/FileContentIndex/e3315c91-ef7e-4164-afb6-4bd31284fe0a.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ScreenSound--POO/v17/.wsuo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ScreenSound--POO/v17/.wsuo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ScreenSound--POO/v17/DocumentLayout.backup.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ScreenSound--POO/v17/DocumentLayout.backup.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ScreenSound--POO/v17/DocumentLayout.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ScreenSound--POO/v17/DocumentLayout.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/FelipeLundgrenScreeSound.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/FelipeLundgrenScreeSound.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/FelipeLundgrenScreeSound.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/FelipeLundgrenScreeSound.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/FelipeLundgrenScreeSound.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/FelipeLundgrenScreeSound.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/FelipeLundgrenScreeSound.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/FelipeLundgrenScreeSound.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/FelipeLundgrenScreeSound.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/FelipeLundgrenScreeSound.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/FelipeLundgrenScreeSound.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/FelipeLundgrenScreeSound.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/FelipeLundgrenScreeSound.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/FelipeLundgrenScreeSound.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/FelipeLundgrenScreeSound.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/FelipeLundgrenScreeSound.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/ref/FelipeLundgrenScreeSound.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/ref/FelipeLundgrenScreeSound.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/refint/FelipeLundgrenScreeSound.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/refint/FelipeLundgrenScreeSound.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/net8.0/FelipeLundgrenScreeSound.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/net8.0/FelipeLundgrenScreeSound.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Release/net8.0/FelipeLundgrenScreeSound.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Release/net8.0/FelipeLundgrenScreeSound.AssemblyInfoInputs.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Album.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Banda.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Genero.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Musica.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="33TGa1nborofnmMdqwJAS48mTf6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6761be4e-3139-41df-b755-29d2e7fc9bd4" name="Changes" comment="" />
+      <created>1759333709772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759333709772</updated>
+      <workItem from="1759333714265" duration="61000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

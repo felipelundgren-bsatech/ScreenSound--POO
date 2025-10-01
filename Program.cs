@@ -28,3 +28,4 @@ musica2.ExibirFichaTecnica();
 albumDoQUeen.ExibirMusicasDoAlbum();
 queen.ExibirDiscografia();
 
+Console.ReadLine();
